@@ -26,15 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mapsonn&show_icons=true&theme=tokyonight" alt="mapsonn github stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapsonn&layout=compact&theme=tokyonight" alt="top languages" height="160"/>
-</p>
-
----
-
 ### 🌎 Connect With Me
 <a href="mailto:matiaspaiz14@gmail.com">
   📧 matiaspaiz14@gmail.com
