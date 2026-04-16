@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 - 🎓 Studying **Information Technology Management (Software Development)**  
-- 💡 Passionate about **Fintech**, **Cybersecurity**, **Artificial Intelligence** and **Data Analysis**  
+- 💡 Passionate about **Fintech**, **Artificial Intelligence** and **Data Analysis**  
 
 ---
 ### 🛠️ Technologies I Use
